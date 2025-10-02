@@ -1,0 +1,17 @@
+Python 3.9+
+
+pandas, numpy
+
+scikit-learn
+
+scikit-surprise (a.k.a. scikit-surprise) — for collaborative filtering (optional)
+
+joblib (save/load models)
+
+nltk (optional text cleanup)
+
+streamlit or Flask (deploy UI)
+
+Docker (optional)
+
+Any code editor + Git/GitHub
